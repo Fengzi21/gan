@@ -2,3 +2,4 @@
 __pycache__
 *.pkl
 img_align_celeba/
+*.hdf5
